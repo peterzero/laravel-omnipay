@@ -1,8 +1,8 @@
 {
-    "name": "phpviet/laravel-omnipay",
+    "name": "peterzero/laravel-omnipay",
     "description": "Laravel Omnipay hổ trợ tích hợp các cổng thanh toán trong nước.",
     "keywords": [
-        "phpviet",
+        "peterzero",
         "laravel-omnipay",
         "omnipay",
         "vietnam-payment-gateways",
